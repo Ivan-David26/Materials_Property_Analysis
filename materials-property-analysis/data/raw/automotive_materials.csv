@@ -1,0 +1,17 @@
+Material,Category,Density_g_cm3,Yield_Strength_MPa,Tensile_Strength_MPa,Elastic_Modulus_GPa,Cost_USD_per_kg,Corrosion_Resistance_1to5,Weldability_1to5,Recyclability_1to5,Fatigue_Strength_MPa,Weight_Saving_percent_vs_Steel
+AISI 1020 Steel (Baseline),Steel,7.87,210,395,200,0.75,2,5,5,200,0
+HSLA Steel 340,Steel,7.85,345,483,200,0.90,2,5,5,240,0.3
+Advanced High Strength Steel,Steel,7.85,550,780,200,1.20,2,4,5,310,-0.3
+Dual Phase Steel 600,Steel,7.85,340,600,200,1.10,2,4,5,250,0.3
+Aluminum 5052-H32,Aluminum Alloy,2.68,193,228,70,2.10,5,4,5,125,65.9
+Aluminum 6061-T6,Aluminum Alloy,2.70,276,310,69,2.20,4,4,5,97,65.7
+Aluminum 7075-T6,Aluminum Alloy,2.81,503,572,72,3.50,3,2,4,159,64.3
+Aluminum 6022-T4 (Auto),Aluminum Alloy,2.70,150,280,70,2.30,4,4,5,110,65.7
+Magnesium AZ31B,Other Metal,1.77,200,260,45,2.80,2,3,4,100,77.5
+Magnesium AZ91D,Other Metal,1.81,160,230,45,2.50,2,2,4,80,77.0
+Titanium Ti-6Al-4V,Other Metal,4.43,880,950,114,35.0,5,3,4,620,43.7
+CFRP (Carbon Fiber Composite),Composite,1.55,0,700,70,90.0,5,1,2,350,80.3
+GFRP (Glass Fiber Composite),Composite,1.90,0,450,25,15.0,5,1,2,200,75.9
+Polypropylene (PP),Polymer,0.91,25,35,1.5,1.50,5,1,4,12,88.4
+Polycarbonate (PC),Polymer,1.20,62,65,2.4,3.50,4,1,3,30,84.7
+PEEK,Polymer,1.32,91,100,3.6,90.0,5,1,3,50,83.2

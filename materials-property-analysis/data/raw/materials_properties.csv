@@ -1,0 +1,53 @@
+Material,Category,Tensile_Strength_MPa,Yield_Strength_MPa,Elastic_Modulus_GPa,Hardness_HV,Density_g_cm3,Thermal_Conductivity_W_mK,Elongation_percent,Poissons_Ratio,Melting_Point_C,Specific_Strength_MPa_g_cm3
+AISI 1020 Steel,Steel,395,210,200,126,7.87,51.9,36,0.29,1515,50.2
+AISI 1045 Steel,Steel,570,310,200,162,7.85,49.8,16,0.29,1500,72.6
+AISI 4140 Steel,Steel,655,415,200,197,7.85,42.6,25.7,0.29,1416,83.4
+AISI 304 Stainless,Steel,515,205,193,129,8.00,16.2,40,0.29,1399,64.4
+AISI 316 Stainless,Steel,485,170,193,129,8.00,16.3,40,0.27,1399,60.6
+AISI 410 Stainless,Steel,485,275,200,200,7.80,24.9,20,0.28,1480,62.2
+AISI 4340 Steel,Steel,745,470,200,230,7.85,44.5,22,0.29,1427,94.9
+Tool Steel D2,Steel,1520,1245,210,770,7.70,20.0,1,0.28,1421,197.4
+Maraging Steel 350,Steel,2450,2400,186,620,8.00,25.0,8,0.30,1413,306.3
+HSLA Steel 50,Steel,483,345,200,140,7.85,50.0,21,0.29,1510,61.5
+Aluminum 1100-H14,Aluminum Alloy,124,117,69,32,2.71,218,9,0.33,655,45.8
+Aluminum 2024-T3,Aluminum Alloy,483,345,73,120,2.78,121,18,0.33,638,173.7
+Aluminum 6061-T6,Aluminum Alloy,310,276,69,107,2.70,167,12,0.33,652,114.8
+Aluminum 7075-T6,Aluminum Alloy,572,503,72,175,2.81,130,11,0.33,635,203.6
+Aluminum 5052-H32,Aluminum Alloy,228,193,70,60,2.68,138,12,0.33,649,85.1
+Aluminum 2219-T87,Aluminum Alloy,476,393,73,130,2.84,120,10,0.33,643,167.6
+Aluminum 6063-T5,Aluminum Alloy,186,145,69,73,2.69,201,12,0.33,654,69.1
+Aluminum 7068-T6,Aluminum Alloy,683,621,72,201,2.85,127,9,0.33,628,239.6
+Magnesium AZ31B,Other Metal,260,200,45,73,1.77,96,21,0.35,630,146.9
+Magnesium AZ91D,Other Metal,230,160,45,75,1.81,72,3,0.35,598,127.1
+Titanium Grade 2,Other Metal,345,275,105,195,4.51,16,20,0.37,1665,76.5
+Titanium Ti-6Al-4V,Other Metal,950,880,114,349,4.43,6.7,14,0.34,1660,214.4
+Titanium Ti-6Al-2Sn,Other Metal,895,827,114,330,4.54,7.0,10,0.34,1650,197.1
+Copper C11000,Other Metal,220,69,117,40,8.94,388,45,0.34,1083,24.6
+Copper C17200 (BeCu),Other Metal,1240,1000,131,380,8.25,105,3,0.30,866,150.3
+Nylon 6 (PA6),Polymer,85,70,3.2,110,1.14,0.25,150,0.39,220,74.6
+Nylon 66 (PA66),Polymer,82,59,2.8,120,1.14,0.24,60,0.39,255,71.9
+Polycarbonate (PC),Polymer,65,62,2.4,90,1.20,0.20,110,0.37,267,54.2
+Polypropylene (PP),Polymer,35,25,1.5,70,0.91,0.22,400,0.42,165,38.5
+ABS,Polymer,45,35,2.3,85,1.05,0.17,25,0.35,105,42.9
+PEEK,Polymer,100,91,3.6,107,1.32,0.25,30,0.40,343,75.8
+Epoxy Resin,Polymer,80,72,3.5,100,1.25,0.21,3,0.38,180,64.0
+PTFE (Teflon),Polymer,25,10,0.5,60,2.20,0.25,300,0.46,327,11.4
+UHMWPE,Polymer,48,21,0.7,65,0.94,0.44,350,0.46,135,51.1
+Alumina (Al2O3),Ceramic,200,0,370,1800,3.95,30,0,0.22,2072,50.6
+Silicon Carbide (SiC),Ceramic,250,0,415,2800,3.21,120,0,0.17,2700,77.9
+Silicon Nitride (Si3N4),Ceramic,600,0,310,1720,3.19,30,0,0.27,1900,188.1
+Zirconia (ZrO2),Ceramic,900,0,200,1200,6.05,3,0,0.31,2715,148.8
+Boron Carbide (B4C),Ceramic,350,0,448,2900,2.52,92,0,0.17,2450,138.9
+Glass (Soda-lime),Ceramic,50,0,70,545,2.52,1.2,0,0.23,730,19.8
+Carbon Fiber CFRP (UD),Composite,1500,0,135,0,1.60,7,1.5,0.30,N/A,937.5
+Glass Fiber GFRP (UD),Composite,800,0,45,0,2.10,0.35,2.0,0.28,N/A,381.0
+Kevlar KFRP (UD),Composite,1300,0,70,0,1.38,0.04,2.5,0.35,N/A,942.0
+Carbon/Epoxy Woven,Composite,700,0,70,0,1.55,5,1.8,0.30,N/A,451.6
+E-glass/Epoxy,Composite,450,0,25,0,1.90,0.35,2.5,0.28,N/A,236.8
+Basalt Fiber/Epoxy,Composite,550,0,30,0,1.95,1.0,3.0,0.28,N/A,282.1
+Al-SiC MMC (20%),Composite,380,310,100,130,2.82,150,8,0.33,N/A,134.8
+Ti-SiC MMC (25%),Composite,1100,950,160,380,3.90,20,5,0.30,N/A,282.1
+Inconel 625,Superalloy,965,517,208,200,8.44,9.8,30,0.31,1350,114.3
+Inconel 718,Superalloy,1275,1034,200,410,8.19,11.4,12,0.30,1260,155.7
+Hastelloy C-276,Superalloy,790,355,205,200,8.89,10.0,60,0.30,1370,88.9
+Waspaloy,Superalloy,1275,795,210,370,8.19,12.5,25,0.30,1330,155.7

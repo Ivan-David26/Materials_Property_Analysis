@@ -1,0 +1,26 @@
+Material,Category,Corrosion_Environment,Corrosion_Rate_mm_per_year,Pitting_Susceptibility_1to5,Galvanic_Position,Cost_per_kg_USD,Surface_Treatment_Required
+AISI 1020 Steel,Steel,Seawater,0.50,5,Anodic,0.75,Yes
+AISI 1020 Steel,Steel,Industrial Atmosphere,0.15,4,Anodic,0.75,Yes
+AISI 1020 Steel,Steel,Rural Atmosphere,0.03,3,Anodic,0.75,Yes
+AISI 304 Stainless,Steel,Seawater,0.002,3,Cathodic,3.50,No
+AISI 304 Stainless,Steel,Industrial Atmosphere,0.001,2,Cathodic,3.50,No
+AISI 316 Stainless,Steel,Seawater,0.001,2,Cathodic,5.00,No
+AISI 316 Stainless,Steel,Industrial Atmosphere,0.0005,1,Cathodic,5.00,No
+Aluminum 6061-T6,Aluminum Alloy,Seawater,0.01,3,Anodic,2.20,Optional
+Aluminum 6061-T6,Aluminum Alloy,Industrial Atmosphere,0.003,2,Anodic,2.20,Optional
+Aluminum 5052-H32,Aluminum Alloy,Seawater,0.005,2,Anodic,2.10,Optional
+Aluminum 5052-H32,Aluminum Alloy,Industrial Atmosphere,0.001,1,Anodic,2.10,No
+Titanium Ti-6Al-4V,Other Metal,Seawater,0.0001,1,Cathodic,35.00,No
+Titanium Ti-6Al-4V,Other Metal,Industrial Atmosphere,0.0001,1,Cathodic,35.00,No
+Copper C11000,Other Metal,Seawater,0.020,2,Cathodic,8.00,Optional
+Copper C11000,Other Metal,Industrial Atmosphere,0.010,2,Cathodic,8.00,Optional
+Inconel 625,Superalloy,Seawater,0.0001,1,Cathodic,60.00,No
+Inconel 625,Superalloy,Industrial Atmosphere,0.0001,1,Cathodic,60.00,No
+Nylon 6 (PA6),Polymer,Seawater,0.000,1,N/A,3.00,No
+Nylon 6 (PA6),Polymer,Industrial Atmosphere,0.000,1,N/A,3.00,No
+PEEK,Polymer,Seawater,0.000,1,N/A,90.00,No
+CFRP,Composite,Seawater,0.000,1,Cathodic,90.00,No
+CFRP,Composite,Industrial Atmosphere,0.000,1,Cathodic,90.00,No
+GFRP,Composite,Seawater,0.000,1,N/A,15.00,No
+Alumina (Al2O3),Ceramic,Seawater,0.000,1,N/A,20.00,No
+Zirconia (ZrO2),Ceramic,Seawater,0.000,1,N/A,55.00,No
