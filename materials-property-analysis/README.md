@@ -9,7 +9,7 @@
 
 A data-driven materials engineering analysis project that compiles, cleans, visualizes,
 and interprets property data for 52+ engineering materials across seven material classes.
-Developed as a final-year portfolio project demonstrating the intersection of computational
+Developed as a GitHub portfolio project demonstrating the intersection of computational
 tools and materials science fundamentals.
 
 ---
@@ -358,33 +358,3 @@ Key references:
 4. MatWeb LLC. (2024). *MatWeb Material Property Data*. https://www.matweb.com
 5. NIST (2024). *Materials Data Repository*. https://materialsdata.nist.gov
 6. US Department of Energy (2015). *Lightweight Materials for Cars and Trucks*. Office of Energy Efficiency & Renewable Energy.
-
----
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## Suggested Resume Bullet Points
-
-> *For use in CVs, LinkedIn, or graduate school applications:*
-
-- Compiled and analyzed a 52-material engineering property database (MatWeb, ASM Handbook) using Python, Pandas, and Matplotlib, generating Ashby-style property charts and a Pearson correlation analysis that identified key strength-ductility and conductivity-strength tradeoffs
-- Applied Ashby merit index methodology to quantify automotive lightweighting potential, demonstrating 66–80% weight savings achievable with aluminum and CFRP vs. mild steel under equal-stiffness constraints
-- Developed modular Python analysis pipeline (data loading, validation, visualization, engineering calculations) with 10+ publication-quality figures; project available as open-source GitHub portfolio
-
----
-
-## Suggested GitHub Project Description
-
-> *For the GitHub repository's "About" section:*
-
-Python analysis of 52+ engineering material properties (steel, aluminum, polymers, ceramics, composites) with Ashby-style charts, temperature behavior analysis, and automotive lightweighting case study. Portfolio project for materials/mechanical engineering.
-
-**Topics:** `materials-science` `materials-selection` `data-visualization` `python` `pandas` `matplotlib` `seaborn` `ashby-chart` `engineering` `portfolio-project`
-
----
-
-*Built with Python 3.10 | Data from MatWeb, ASM Handbook, NIST*
